@@ -1,6 +1,6 @@
 ## Vincent Walker
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Website](https://www.vincethewalker.com/) | [LinkedIn](https://www.linkedin.com/in/vincethewalker/)
+[Skills](#skills) | [Interests](#interests) | [Website](https://www.vincethewalker.com/) | [LinkedIn](https://www.linkedin.com/in/vincethewalker/)
 
 I'm Vincent - Perceptive, proactive, self-taught Ruby on Rails developer with a commitment to creation of clean, efficient, and accessible code in a functional framework throughout the development lifecycle. A reliable individual with genuine integrity and a strong background in client and stakeholder management, sales, marketing, budget and performance management, providing invaluable all round business expertise.
 
