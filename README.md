@@ -12,15 +12,15 @@ I enjoy getting creative! After taking some courses in HTML, CSS and JavaScript,
 
 #### KEY ACHIEVEMENTS
 
-##From learning to code in 2017, rapidly progressed to creating several original APIs
+From learning to code in 2017, rapidly progressed to creating several original APIs
 - Business Den: A SaaS application providing an interface between investors and start-up entrepreneurs
 - My Recipe: A recipe sharing application
 - The Shopping List: A simple shopping list application
-# Wrote functional, unit and integration tests using RSpec, GitHub for functionality and Heroku for production
-# Completed database migrations with Ruby on Rails Active Record
-# Built a bespoke application using a credit card form and Stripe API, integrating email functionality using Sendgrid and using
+#### Wrote functional, unit and integration tests using RSpec, GitHub for functionality and Heroku for production
+#### Completed database migrations with Ruby on Rails Active Record
+#### Built a bespoke application using a credit card form and Stripe API, integrating email functionality using Sendgrid and using
 Devise to optimise application functionality (Business Den)
-# Developed interface for AWS S3 Rails application communication channel using Carrierwave Gem
+#### Developed interface for AWS S3 Rails application communication channel using Carrierwave Gem
 
 ## Interests
 
