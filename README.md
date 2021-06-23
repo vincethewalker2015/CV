@@ -28,7 +28,9 @@ Devise to optimise application functionality (Business Den)
 
 ## CAREER SUMMARY
 
-### BUSINESS SYSTEMS DEVELOPER - HOSTELLING INTERNATIONAL June 2019 - Current
+### RUBY ON RAILS DEVELOPER - KING AND MCGAW FEBRUARY 2021 -
+
+### BUSINESS SYSTEMS DEVELOPER - HOSTELLING INTERNATIONAL June 2019 - November 2020
 * Redeveloped the Front End, Improved visual appearance with CSS and Java Script and Ruby (www.hihostels.com)
   - Overall Website visual improvements 
   - Created JS functions (pop up) for recently visited hostels
