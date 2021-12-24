@@ -28,7 +28,15 @@ Devise to optimise application functionality (Business Den)
 
 ## CAREER SUMMARY
 
-### RUBY ON RAILS DEVELOPER - KING AND MCGAW FEBRUARY 2021 -
+### FULL STACK DEVELOPER - BOILERJUICE July 2021 - 
+
+### RUBY ON RAILS DEVELOPER - KING AND MCGAW FEBRUARY 2021 - July 2021
+* Fixed term contract
+* Various projects to improve SEO using Google Tag Manager.
+* Developing, improving and maintaining the main retail site working with Rails(6.1) as well as Vue.js and Tailwind CSS on the
+  front end
+* Combination of Using Rails Vue and AJAX, I created a function that any print above £1000 a ‘Make Enquiry’ button will appear on the Product options bar and
+  opening an AJAX form for a customer to contact the customer services directly.      
 
 ### BUSINESS SYSTEMS DEVELOPER - HOSTELLING INTERNATIONAL June 2019 - November 2020
 * Redeveloped the Front End, Improved visual appearance with CSS and Java Script and Ruby (www.hihostels.com)
