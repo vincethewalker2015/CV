@@ -46,5 +46,5 @@ Devise to optimise application functionality (Business Den)
 
 ## Interests
 
-**Travel** - I love to travel, recently travelled from Moscow to Beijing on the Trans Siberian Railway!.
+**Travel** - I love to travel!
 
