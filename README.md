@@ -17,8 +17,7 @@ I enjoy getting creative! After taking some courses in HTML, CSS and JavaScript,
 From learning to code in 2017, rapidly progressed to creating several original APIs
 - Elixir (For a client) An online form for clients to fill in to determine a risk assessment prior to having beauty treatment
 - 'LetsChat' A Rails App using asynchronous messaging.
-- Business Den: A SaaS application providing an interface between investors and start-up entrepreneurs
-- My Recipe: A recipe sharing application
+- My Wines a SAAS Application using the Braintree API
 - The Shopping List: A simple shopping list application using Rails and Vue.js
 #### Wrote functional, unit and integration tests using RSpec, GitHub for functionality and Heroku for production
 #### Completed database migrations with Ruby on Rails Active Record
@@ -28,7 +27,12 @@ Devise to optimise application functionality (Business Den)
 
 ## CAREER SUMMARY
 
-### FULL STACK DEVELOPER - BOILERJUICE July 2021 - 
+### FULL STACK DEVELOPER - BOILERJUICE July 2021 - Present
+* Created and brought to life a dynamic form that involved both backend as well as front end development, This is used by an
+  Engineer on site, on submission of this form the data is stored in a Postgres (Heroku) database as well as synced on
+  company dashboards using several API calls as well as using A WS Dynamo DB to store payloads.
+* System testing using Rspec
+* Supported team in managing the Customer Services Help Desk that require dev support
 
 ### RUBY ON RAILS DEVELOPER - KING AND MCGAW FEBRUARY 2021 - July 2021
 * Fixed term contract
