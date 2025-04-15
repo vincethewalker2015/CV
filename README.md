@@ -2,39 +2,52 @@
 
 [Skills](#skills) | [Career](#CAREER) | [Interests](#interests) | [Website](https://www.vincethewalker.com/) | [LinkedIn](https://www.linkedin.com/in/vincethewalker/)
 
-I'm Vincent,  Perceptive, proactive, self-taught Ruby on Rails developer with a commitment to creation of clean, efficient, and accessible code in a functional framework throughout the development lifecycle. A reliable individual with genuine integrity and a strong background in client and stakeholder management, sales, marketing, budget and performance management, providing invaluable all round business expertise.
+A self-taught software engineer with 5+ years of experience building and scaling products in fast-paced startup environments. Proven track record of delivering clean, efficient, and maintainable code—primarily with Ruby on Rails—while contributing across the full product lifecycle.
 
-Having spent most of my career in Sales and Marketing. It was through a work project I became involved in to help develop a website that got me 'hooked' in this technology and convinced me this is the direction I wanted to take..
+Comfortable wearing multiple hats, collaborating closely with cross-functional teams, and
+navigating ambiguity to deliver high-impact features.
 
-I enjoy getting creative! After taking some courses in HTML, CSS and JavaScript, I was introduced to Ruby On Rails which I have been training and developing my skills for almost 2 years.
+Brings strong business insight from a previous background in client
+management, sales, and performance strategy, adding unique value beyond engineering
 
 ## Skills
-❖ Java Script ❖ Ruby on Rails ❖ HTML ❖ CSS ❖ Bootstrap ❖ Action Cable
-❖ PostgreSQL ❖ GitHub ❖ Heroku ❖ TDD ❖ Cucumber 
+❖ Java Script ❖ React.js ❖ Ruby on Rails ❖ HTML ❖ CSS ❖ Bootstrap ❖ Tailwind
+❖ PostgreSQL ❖ GitHub ❖ Heroku ❖ TDD ❖ TurboFrames ❖ TurboStreams
 
 ## KEY Projects
 
-From learning to code in 2017, rapidly progressed to creating several original APIs
-- Elixir (For a client) An online form for clients to fill in to determine a risk assessment prior to having beauty treatment
-- 'LetsChat' A Rails App using asynchronous messaging.
-- My Wines a SAAS Application using the Braintree API
-- The Shopping List: A simple shopping list application using Rails and Vue.js
-#### Wrote functional, unit and integration tests using RSpec, GitHub for functionality and Heroku for production
-#### Completed database migrations with Ruby on Rails Active Record
-#### Built a bespoke application using a credit card form and Stripe API, integrating email functionality using Sendgrid and using
-Devise to optimise application functionality (Business Den)
-#### Developed interface for AWS S3 Rails application communication channel using Carrierwave Gem
+#### From learning to code in 2017, rapidly progressed to creating web applications in Ruby on Rails
 
-## CAREER SUMMARY
+#### Built a bespoke SaaS application (Webshop) using:
+- Devise as a User authentication solution functionality
+- Stripe Api for payment authentication
+- Braintree Api for payment authentication 
+- AWS S3 for Image storage
 
-### FULL STACK DEVELOPER - BOILERJUICE July 2021 - Present
+#### Whilst at Boilerjuice Solo developed a Dynamic form which is would be used by both
+-  Company engineers on site that dynamically updates the company dashboard used by
+-  Company service agents
+
+#### Whilst at Scan.com as a core team member developing the new US B2B platform that will be used countrywide by
+- Team administrators
+- US scheduling team
+
+## CAREER
+
+### SOFTWARE ENGINEER - SCAN.COM November 2022 - Present
+* Collaborated closely with the product team to develop the new US B2B platform, creating and implementing features
+  across dedicated portals for Admins, Referring Providers, and Attorneys.
+* Collaborated on the development of a new software assessment tool for Traumatic Brain Injury (TBI)
+* Built front-end features using React, Turbo Frames, Turbo Streams, and Stimulus.js
+
+### SOFTWARE ENGINEER - BOILERJUICE July 2021 - November 2022
 * Created and brought to life a dynamic form that involved both backend as well as front end development, This is used by an
   Engineer on site, on submission of this form the data is stored in a Postgres (Heroku) database as well as synced on
   company dashboards using several API calls as well as using A WS Dynamo DB to store payloads.
 * System testing using Rspec
 * Supported team in managing the Customer Services Help Desk that require dev support
 
-### RUBY ON RAILS DEVELOPER - KING AND MCGAW FEBRUARY 2021 - July 2021
+### SOFTWARE ENGINEER - KING AND MCGAW FEBRUARY 2021 - July 2021
 * Fixed term contract
 * Various projects to improve SEO using Google Tag Manager.
 * Developing, improving and maintaining the main retail site working with Rails(6.1) as well as Vue.js and Tailwind CSS on the
