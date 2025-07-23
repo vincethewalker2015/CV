@@ -12,7 +12,7 @@ management, sales, and performance strategy, adding unique value beyond engineer
 
 ## Skills
 ❖ Java Script ❖ React.js ❖ Ruby on Rails ❖ HTML ❖ CSS ❖ Bootstrap ❖ Tailwind
-❖ PostgreSQL ❖ GitHub ❖ Heroku ❖ TDD ❖ TurboFrames ❖ TurboStreams
+❖ PostgreSQL ❖ GitHub ❖ Heroku ❖ TDD ❖ Hotwire ❖ TurboFrames ❖ TurboStreams
 
 ## KEY Projects
 
