@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Career](#CAREER) | [Interests](#interests) | [Website](https://www.vincethewalker.com/) | [LinkedIn](https://www.linkedin.com/in/vincethewalker/)
 
-A self-taught software engineer with 5+ years of experience building and scaling products in fast-paced startup environments. Proven track record of delivering clean, efficient, and maintainable code—primarily with Ruby on Rails—while contributing across the full product lifecycle.
+A self-taught software engineer with 5+ years of experience building and scaling products in fast-paced startup environments. Proven track record of delivering clean, efficient, and maintainable code—primarily with Ruby on Rails while contributing across the full product lifecycle.
 
 Comfortable wearing multiple hats, collaborating closely with cross-functional teams, and
 navigating ambiguity to deliver high-impact features.
@@ -12,7 +12,7 @@ management, sales, and performance strategy, adding unique value beyond engineer
 
 ## Skills
 ❖ Java Script ❖ React.js ❖ Ruby on Rails ❖ HTML ❖ CSS ❖ Bootstrap ❖ Tailwind
-❖ PostgreSQL ❖ GitHub ❖ Heroku ❖ TDD ❖ TurboFrames ❖ TurboStreams
+❖ PostgreSQL ❖ GitHub ❖ Heroku ❖ TDD ❖ Hotwire ❖ TurboFrames ❖ TurboStreams
 
 ## KEY Projects
 
