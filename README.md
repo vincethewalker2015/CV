@@ -34,7 +34,7 @@ management, sales, and performance strategy, adding unique value beyond engineer
 
 ## CAREER
 
-### SOFTWARE ENGINEER - SCAN.COM November 2022 - Present
+### PRODUCT ENGINEER - SCAN.COM November 2022 - JULY 2025
 * Collaborated closely with the product team to develop the new US B2B platform, creating and implementing features
   across dedicated portals for Admins, Referring Providers, and Attorneys.
 * Collaborated on the development of a new software assessment tool for Traumatic Brain Injury (TBI)
