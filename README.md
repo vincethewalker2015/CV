@@ -1,67 +1,103 @@
-## Vincent Walker
+# Vincent Walker
 
-[Skills](#skills) | [Career](#CAREER) | [Interests](#interests) | [Website](https://www.vincethewalker.com/) | [LinkedIn](https://www.linkedin.com/in/vincethewalker/)
+[Skills](#skills) | [Key Achievements](#key-achievements) | [Career](#career) | [Interests](#interests) | [Website](https://www.vincethewalker.com/) | [LinkedIn](https://www.linkedin.com/in/vincethewalker/) | [GitHub](https://github.com/)
 
-A self-taught software engineer with 5+ years of experience building and scaling products in fast-paced startup environments. Proven track record of delivering clean, efficient, and maintainable code—primarily with Ruby on Rails while contributing across the full product lifecycle.
+Senior Software Engineer with 7+ years of experience architecting scalable web applications within fast-paced startup environments.
 
-Comfortable wearing multiple hats, collaborating closely with cross-functional teams, and
-navigating ambiguity to deliver high-impact features.
+Specialising in Ruby on Rails, React.js, and Hotwire, with a proven track record of building high-quality, maintainable software across the full product lifecycle. Experienced working with cross-functional and international teams to deliver impactful products, scalable systems, and user-focused features.
 
-Brings strong business insight from a previous background in client
-management, sales, and performance strategy, adding unique value beyond engineering
+Combines deep technical ownership with strong commercial awareness from a previous career in client management, sales, and performance strategy.
+
+---
 
 ## Skills
-❖ Java Script ❖ React.js ❖ Ruby on Rails ❖ HTML ❖ CSS ❖ Bootstrap ❖ Tailwind
-❖ PostgreSQL ❖ GitHub ❖ Heroku ❖ TDD ❖ Hotwire ❖ TurboFrames ❖ TurboStreams
 
-## KEY Projects
+❖ Ruby on Rails  ❖ React.js  ❖ JavaScript  
+❖ Hotwire  ❖ Turbo / Turbo Streams / Turbo Frames  ❖ Stimulus.js  
+❖ PostgreSQL  ❖ Redis / Sidekiq  ❖ Solid Queue / Solid Cache  
+❖ Tailwind CSS  ❖ Docker ❖ AWS / Heroku  
+❖ CI/CD  ❖ GitHub  ❖ RSpec / TDD  
 
-#### From learning to code in 2017, rapidly progressed to creating web applications in Ruby on Rails
+---
 
-#### Built a bespoke SaaS application (Webshop) using:
-- Devise as a User authentication solution functionality
-- Stripe Api for payment authentication
-- Braintree Api for payment authentication 
-- AWS S3 for Image storage
+## Key Achievements
 
-#### Whilst at Boilerjuice Solo developed a Dynamic form which is would be used by both
--  Company engineers on site that dynamically updates the company dashboard used by
--  Company service agents
+### 🚀 Engineering Leadership
+Rapidly evolved from a self-taught developer into a senior engineer architecting complex production-grade Ruby on Rails applications across startup environments.
 
-#### Whilst at Scan.com as a core team member developing the new US B2B platform that will be used countrywide by
-- Team administrators
-- US scheduling team
+### ⚡ System Optimisation — Boilerjuice
+Engineered a dynamic site-reporting tool using AWS DynamoDB for real-time data ingestion, improving operational visibility for customer service agents and field engineers.
 
-## CAREER
+### 🔐 Architecture & Security — Mercantiworld
+Independently architected and launched a full-stack SaaS MVP using Rails 8 and Hotwire, integrating Stripe, Braintree, AWS S3, Elastic Beanstalk, and Lightsail. Performed smoke and stress testing to validate production readiness.
 
-### PRODUCT ENGINEER - SCAN.COM November 2022 - JULY 2025
-* Collaborated closely with the product team to develop the new US B2B platform, creating and implementing features
-  across dedicated portals for Admins, Referring Providers, and Attorneys.
-* Collaborated on the development of a new software assessment tool for Traumatic Brain Injury (TBI)
-* Built front-end features using React, Turbo Frames, Turbo Streams, and Stimulus.js
+### 🌎 Global Scaling — Scan.com
+Core contributor to the engineering team that designed and deployed a nationwide US B2B scheduling platform supporting Admin, Legal, and Healthcare user portals.
 
-### SOFTWARE ENGINEER - BOILERJUICE July 2021 - November 2022
-* Created and brought to life a dynamic form that involved both backend as well as front end development, This is used by an
-  Engineer on site, on submission of this form the data is stored in a Postgres (Heroku) database as well as synced on
-  company dashboards using several API calls as well as using A WS Dynamo DB to store payloads.
-* System testing using Rspec
-* Supported team in managing the Customer Services Help Desk that require dev support
+### 📈 Process Improvement — King & McGaw
+Improved application stability and reduced regression cycles by increasing automated test coverage from 40% to 85% using RSpec.
 
-### SOFTWARE ENGINEER - KING AND MCGAW FEBRUARY 2021 - July 2021
-* Fixed term contract
-* Various projects to improve SEO using Google Tag Manager.
-* Developing, improving and maintaining the main retail site working with Rails(6.1) as well as Vue.js and Tailwind CSS on the
-  front end
-* Combination of Using Rails Vue and AJAX, I created a function that any print above £1000 a ‘Make Enquiry’ button will appear on the Product options bar and
-  opening an AJAX form for a customer to contact the customer services directly.      
+---
 
-### BUSINESS SYSTEMS DEVELOPER - HOSTELLING INTERNATIONAL June 2019 - November 2020
-* Redeveloped the Front End, Improved visual appearance with CSS and Java Script and Ruby (www.hihostels.com)
-  - Overall Website visual improvements 
-  - Created JS functions (pop up) for recently visited hostels
-* Cucumber testing gaining valuable skills and experience in BDD development.
+## Career
+
+### FOUNDER & LEAD ENGINEER — MERCANTIWORLD  
+**July 2025 – Present**
+
+* Independently designed and launched a Rails 8 + Hotwire e-commerce platform from the ground up.
+* Architected scalable AWS infrastructure using Elastic Beanstalk and S3.
+* Integrated multi-provider payment gateways including Stripe and Braintree.
+* Deepened expertise in Rails 8, Solid Queue, Solid Cache, and modern full-stack architecture through end-to-end ownership.
+* Currently maintained as an active side project.
+
+---
+
+### PRODUCT ENGINEER — SCAN.COM (US ENGINEERING TEAM)  
+**November 2022 – July 2025**
+
+* Collaborated closely with the US product team to develop a nationwide B2B healthcare platform.
+* Built and implemented features across Admin, Referring Provider, and Attorney portals.
+* Contributed to the development of a Traumatic Brain Injury (TBI) assessment platform.
+* Built front-end features using React, Turbo Frames, Turbo Streams, and Stimulus.js.
+
+---
+
+### FULL STACK RUBY ON RAILS DEVELOPER — BOILERJUICE  
+**July 2021 – November 2022**
+
+* Designed and developed a dynamic engineer reporting tool across both frontend and backend systems.
+* Integrated PostgreSQL (Heroku), AWS DynamoDB, and multiple APIs for real-time dashboard synchronisation.
+* Supported engineering operations and internal customer service tooling.
+* Worked extensively with Rails, JavaScript, and RSpec testing.
+
+---
+
+### RUBY ON RAILS DEVELOPER — KING & MCGAW  
+**February 2021 – July 2021**
+
+* Developed and maintained the main retail platform using Rails 6.1, Vue.js, and Tailwind CSS.
+* Increased automated test coverage from 40% to 85% using RSpec.
+* Improved platform stability and reduced production regressions.
+* Worked on SEO and customer experience improvements.
+
+---
+
+### BUSINESS SYSTEMS DEVELOPER — HOSTELLING INTERNATIONAL  
+**June 2019 – November 2020**
+
+* Improved the frontend experience across the HI Hostels platform.
+* Worked with Ruby, HTML, CSS (Bootstrap), and JavaScript to align the platform with updated brand guidelines.
+* Enhanced user experience through UI improvements and frontend feature updates.
+
+---
 
 ## Interests
 
-**Travel** - I love to travel!
+### ✈️ Travel
+I enjoy travelling and experiencing different cultures and environments around the world.
 
+### 🧠 Continuous Learning
+Passionate about learning modern Rails architecture, scalable systems, and emerging web technologies.
+
+### 🏋️ Fitness
+Enjoy staying active and maintaining a healthy work-life balance.
